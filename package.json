@@ -2,7 +2,7 @@
   "name": "react-team-organizer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://damparo.github.io/react-team-creater/",
+  "homepage": "https://github.com/damparo/react-team-creater.git",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.4",
