@@ -4,7 +4,7 @@
 
 The goal was to create a simple and fast single page web app that allows a user to randomly create two teams for pickup games of soccer.
 
-[https://damparo.github.io/react-team-creater/]
+<!-- [https://damparo.github.io/react-team-creater/] -->
 
 ## Functionality
 
