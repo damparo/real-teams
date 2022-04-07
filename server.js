@@ -7,6 +7,6 @@ const app = express();
 app.listen(
     PORT,
     () => {
-        console.log(`it's working! on http://localhost:${PORT}`)
+        console.log(`it's working! let's check on http://localhost:${PORT}`)
     }
 );
