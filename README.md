@@ -17,4 +17,4 @@ By selecting the generate button, two teams are randomly generated using the Fis
 This quick app was designed to be simple and served as a learning experience for using React.js.
 
 ## Update:
-Future updates include being able to preselect amount of players per team, adding special category and UI for substitutes, and creating player-jerseys using CSS.
+Future updates include being able to preselect amount of players per team, adding special category and UI for substitutes, creating player-jerseys using CSS, being able to save teams.
