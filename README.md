@@ -6,6 +6,7 @@ The goal was to create a simple and fast single page web app that allows a user 
 
 [https://damparo.github.io/real-teams/]
 <!-- this link should work -->
+<!-- make this work already -->
 
 ## Functionality
 
